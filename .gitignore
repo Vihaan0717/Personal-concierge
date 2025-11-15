@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Environment file with API keys
+.env
+
+# Data files
+data/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS-specific files
+.DS_Store
